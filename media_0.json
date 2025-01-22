@@ -1,0 +1,27 @@
+[
+    {
+        "channel_name": "Willow Cricket HD",
+        "channel_link": "https://new.crichd-player.top/willow-cricket-live-streaming-hd-46?v=m",
+        "m3u8_link": "https://jan.zplayer001.com:8034/hls/willowus.m3u8?md6=2bCGLFMs3fqoagOC9ZTBJA&expires=1737576403"
+    },
+    {
+        "channel_name": "PTV Sports",
+        "channel_link": "https://new.crichd-player.top/ptv-sports-live-streaming-crichd-19",
+        "m3u8_link": "https://jan.zplayer001.com:8034/hls/ptvpk.m3u8?md6=99Q31eae9g0q_EVo20OJmg&expires=1737576484"
+    },
+    {
+        "channel_name": "Sky Sports Cricket",
+        "channel_link": "https://new.crichd-player.top/sky-sports-cricket-live-streaming-hd-57",
+        "m3u8_link": "https://pv68.dlolcast.pro:7054/hls/skyscric2.m3u8?md6=REa3br8Yqnsn5G4rssjL7Q&expires=1737576699"
+    },
+    {
+        "channel_name": "Star Sports Hindi",
+        "channel_link": "https://new.crichd-player.top/star-sports-hindi-live-streaming-hd-39",
+        "m3u8_link": "https://pv004.zplayer001.com:7054/hls/star1hi.m3u8?md6=GF8FcnTtDNFkekNh0Py6nQ&expires=1737576557"
+    },
+    {
+        "channel_name": "A Sports HD",
+        "channel_link": "https://new.crichd-player.top/a-sports-live-streaming-hd-4",
+        "m3u8_link": "https://pv004.zplayer001.com:7054/hls/asportss.m3u8?md6=BRZ8cGhdqvzbK0xN3DYhng&expires=1737576659"
+    }
+]

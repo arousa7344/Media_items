@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Willow Cricket",
+        "channel_link": "https://new.crichd-player.top/willow-cricket-live-streaming-hd-46",
+        "logo": "https://play-lh.googleusercontent.com/zsq3_vRxHUn3DIfQcQeenR3lh2WRi7C6m29U0UT-2Vporg3bPoouQT6xhVy90ayCCQ",
+        "num": "https://pv004.zplayer001.com:7054/hls/willowus.m3u8?md6=mlxnAZQ6TeVr0Z9Kc2tpRA&expires=1737751891"
+    },
+    {
+        "name": "PTV Sports",
+        "channel_link": "https://new.crichd-player.top/ptv-sports-live-streaming-crichd-19",
+        "logo": "https://dutvaussie.com/images/ptv_sports.jpeg",
+        "num": "https://pv004.zplayer001.com:7054/hls/ptvpk.m3u8?md6=ukJjgGjRPoCqQEU2tVVOBQ&expires=1737751640"
+    },
+    {
+        "name": "Sky Sports Cricket",
+        "channel_link": "https://new.crichd-player.top/sky-sports-cricket-live-streaming-hd-57",
+        "logo": "https://dutvaussie.com/images/sky_sports_cricket.jpg",
+        "num": "https://pv68.dlolcast.pro:7054/hls/skyscric2.m3u8?md6=mTDVLgMHlAcLRvlbCMOWdQ&expires=1737749521"
+    },
+    {
+        "name": "Star Sports Hindi",
+        "channel_link": "https://new.crichd-player.top/star-sports-hindi-live-streaming-hd-39",
+        "logo": "https://dutvaussie.com/images/star_sports.jpeg",
+        "num": "https://pv004.zplayer001.com:7054/hls/star1hi.m3u8?md6=6tXwFrAWHcuI-0kc8y3Uww&expires=1737751017"
+    },
+    {
+        "name": "A Sports HD",
+        "channel_link": "https://new.crichd-player.top/a-sports-live-streaming-hd-4",
+        "logo": "https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8",
+        "num": "https://pv004.zplayer001.com:7054/hls/asportss.m3u8?md6=PhcAT7e8h6P_eQrpsmdwcQ&expires=1737752060"
+    }
+]

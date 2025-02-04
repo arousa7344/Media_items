@@ -1,27 +1,80 @@
 [
     {
-        "channel_name": "Willow Cricket HD",
-        "channel_link": "https://new.crichd-player.top/willow-cricket-live-streaming-hd-46?v=m",
-        "m3u8_link": "https://jan.zplayer001.com:8034/hls/willowus.m3u8?md6=2bCGLFMs3fqoagOC9ZTBJA&expires=1737576403"
+        "name": "Willow Cricket",
+        "channel_link": "https://new.crichd-player.top/willow-cricket-live-streaming-hd-46",
+        "logo": "https://play-lh.googleusercontent.com/zsq3_vRxHUn3DIfQcQeenR3lh2WRi7C6m29U0UT-2Vporg3bPoouQT6xhVy90ayCCQ",
+        "num": "https://pv004.zplayer001.com:7054/hls/willowuse.m3u8?md6=HBrJlNaE-AuQLkFZdlpAbg&expires=1738666474",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": "\"Windows\""
+        }
     },
     {
-        "channel_name": "PTV Sports",
+        "name": "PTV Sports",
         "channel_link": "https://new.crichd-player.top/ptv-sports-live-streaming-crichd-19",
-        "m3u8_link": "https://jan.zplayer001.com:8034/hls/ptvpk.m3u8?md6=99Q31eae9g0q_EVo20OJmg&expires=1737576484"
+        "logo": "https://dutvaussie.com/images/ptv_sports.jpeg",
+        "num": "https://pv004.zplayer001.com:7054/hls/ptvpk.m3u8?md6=d70sAq-z0ilMVQkPjx5l1A&expires=1738669449",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": "\"Windows\""
+        }
     },
     {
-        "channel_name": "Sky Sports Cricket",
+        "name": "Sky Sports",
         "channel_link": "https://new.crichd-player.top/sky-sports-cricket-live-streaming-hd-57",
-        "m3u8_link": "https://pv68.dlolcast.pro:7054/hls/skyscric2.m3u8?md6=REa3br8Yqnsn5G4rssjL7Q&expires=1737576699"
+        "logo": "https://dutvaussie.com/images/sky_sports_cricket.jpg",
+        "num": "https://pv68.dlolcast.pro:7054/hls/skyscric3.m3u8?md6=VzvvlxsG_idi-iybISjHIw&expires=1738669504",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": "\"Windows\""
+        }
     },
     {
-        "channel_name": "Star Sports Hindi",
+        "name": "Star Sports",
         "channel_link": "https://new.crichd-player.top/star-sports-hindi-live-streaming-hd-39",
-        "m3u8_link": "https://pv004.zplayer001.com:7054/hls/star1hi.m3u8?md6=GF8FcnTtDNFkekNh0Py6nQ&expires=1737576557"
+        "logo": "https://dutvaussie.com/images/star_sports.jpeg",
+        "num": "https://jan.zplayer001.com:8034/hls/star1hi.m3u8?md6=5sMCH1vETgh3ccS3x2Ayzg&expires=1738666365",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": "\"Windows\""
+        }
     },
     {
-        "channel_name": "A Sports HD",
+        "name": "A Sports",
         "channel_link": "https://new.crichd-player.top/a-sports-live-streaming-hd-4",
-        "m3u8_link": "https://pv004.zplayer001.com:7054/hls/asportss.m3u8?md6=BRZ8cGhdqvzbK0xN3DYhng&expires=1737576659"
+        "logo": "https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8",
+        "num": "https://pv004.zplayer001.com:7054/hls/asportiso.m3u8?md6=fcuOp4Red_sRwbtjB7CqPw&expires=1738669523",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": "\"Windows\""
+        }
+    },
+    {
+        "name": "TNT Sports",
+        "channel_link": "https://new.crichd-player.top/tnt-sports-3-live-streaming-hd-9",
+        "logo": "https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp",
+        "num": "https://pv68.dlolcast.pro:7054/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=MLGAh-hGwkCmQ_dJzVwiNA&expires=1738667272",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": "\"Windows\""
+        }
     }
 ]

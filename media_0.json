@@ -20,21 +20,21 @@
     },
     {
         "name": "Star Sports",
-        "channel_link": "https://stream2watch.in/live/208-",
+        "channel_link": "https://stream2watch.in/live/216-",
         "logo": "https://dutvaussie.com/images/star_sports.jpeg",
-        "num": "https://d7.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=tima-yAFuiHoQ1Q7AmcASg&expires=1740822860",
+        "num": "https://jan.zplayer001.com:8034/hls/star2in.m3u8?md6=0PpkIU-8eiWNCOAmHSBloQ&expires=1740821841",
         "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "Referer": "https://stylisheleg4nt.com/",
-            "Origin": "https://stylisheleg4nt.com",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+            "Referer": "https://zplayer001.com/",
+            "Origin": "https://zplayer001.com",
             "Sec-Fetch-Dest": "empty",
             "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site",
+            "Sec-Fetch-Site": "same-site",
             "Accept": "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
-            "Host": "d3.dunyapurkaraja.com:999"
+            "Host": "jan.zplayer001.com:8034"
         }
     },
     {

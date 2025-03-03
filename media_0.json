@@ -22,7 +22,7 @@
         "name": "Star Sports",
         "channel_link": "https://stream2watch.in/live/891-",
         "logo": "https://dutvaussie.com/images/star_sports.jpeg",
-        "num": "https://pv004.zplayer001.com:7054/hls/sports18in1.m3u8?md6=5rFCJeDTzvz5ML7DPlhbIw&expires=1740978652",
+        "num": "https://pv004.zplayer001.com:7054/hls/sports18in1.m3u8?md6=4oOHIU6VjTEwjYkShdSeRA&expires=1740978145",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
             "Referer": "https://zplayer001.com/",
@@ -34,7 +34,7 @@
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9",
             "Connection": "keep-alive",
-            "Host": "jan.zplayer001.com:8034"
+            "Host": "pv004.zplayer001.com:7054"
         }
     },
     {

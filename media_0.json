@@ -56,11 +56,17 @@
         "logo": "https://dutvaussie.com/images/ptv_sports.jpeg",
         "num": "https://jan.zplayer001.com:8034/hls/ptvpk.m3u8?md6=6loLPMnFuftoaAU-DVoGXw&expires=1741068972",
         "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
             "Referer": "https://zplayer001.com/",
-            "Sec-CH-UA": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+            "Origin": "https://zplayer001.com",
+            "Sec-CH-UA": "\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"",
             "Sec-CH-UA-Mobile": "?0",
-            "Sec-CH-UA-Platform": "\"Windows\""
+            "Sec-CH-UA-Platform": "\"Windows\"",
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Host": "jan.zplayer001.com:8034"
         }
     },
     {

@@ -3,19 +3,20 @@
         "name": "Sky Sports",
         "channel_link": "https://me.webcric.com/watch-champions-trophy-2025-in-hindi-live-cricket-streaming.htm",
         "logo": "https://dutvaussie.com/images/sky_sports_cricket.jpg",
-        "num": "https://muc2.mylife1.top:8088/live/webcrichindi/playlist.m3u8?vidictid=201501518790&id=119771&pk=fdf6669e7e37d163afb5ef0df09c7476f053f7d7b8bd14a7a2d1851f521fe13626f9c970bde21da46bca23dd1ad35eae9ed665c7ca433eb77ee175d8ce154092&expires=1756684800",
+        "num": "https://puc2.mylife1.top:8088/live/webcrichindi/playlist.m3u8?vidictid=201516715871&id=119771&pk=fdf6669e7e37d163afb5ef0df09c7476f053f7d7b8bd14a7a2d1851f521fe136f219c79a87a74c30b72707801120e7168b990526d772da91b0f396683235004b&expires=1756684800",
         "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-            "Referer": "https://new.alldown.xyz/",
-            "Origin": "https://new.alldown.xyz",
-            "Sec-CH-UA": "\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"",
-            "Sec-CH-UA-Mobile": "?0",
-            "Sec-CH-UA-Platform": "\"Windows\"",
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Host": "muc2.mylife1.top:8088"
+            "access-control-expose-headers": "Date, Server, Content-Type, Content-Length",
+            "cache-control": "no-cache",
+            "connection": "keep-alive",
+            "access-control-allow-credentials": "true",
+            "access-control-allow-methods": "OPTIONS, GET, POST, HEAD",
+            "accept-ranges": "bytes",
+            "access-control-allow-origin": "*",
+            "content-length": "1650",
+            "date": "Tue, 04 Mar 2025 07:42:40 GMT",
+            "content-type": "application/vnd.apple.mpegurl",
+            "server": "VidictMediaServer1.653",
+            "access-control-allow-headers": "Content-Type, User-Agent, If-Modified-Since, Cache-Control, Range"
         }
     },
     {

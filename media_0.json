@@ -19,10 +19,10 @@
         }
     },
     {
-        "name": "Star Sports",
-        "channel_link": "https://stream2watch.in/live/891-",
-        "logo": "https://dutvaussie.com/images/star_sports.jpeg",
-        "num": "https://pv004.zplayer001.com:7054/hls/sports18in1.m3u8?md6=iwposPLtBNKsjr81HNFN0A&expires=1741065325",
+        "name": "Ten Sports",
+        "channel_link": "https://stream2watch.in/live/217-",
+        "logo": "https://d1nxzqpcg2bym0.cloudfront.net/google_play/riaz.ten.sports.streaming/b826deda-eb7c-11e9-aa13-370dcad9c019/640",
+        "num": "https://pv004.zplayer001.com:7054/hls/tenspk.m3u8?md6=8XfTlxRHZmn9i6gvKzI9Sw&expires=1741068536",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
             "Referer": "https://zplayer001.com/",
@@ -77,9 +77,9 @@
         }
     },
     {
-        "name": "Fox Cricket",
+        "name": "Star Sports",
         "channel_link": "https://stream2watch.in/live/546-",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+        "logo": "https://dutvaussie.com/images/star_sports.jpeg",
         "num": "https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=j60yOVdojSDe6yCG1XMAPg&expires=1741065416",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",

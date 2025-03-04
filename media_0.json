@@ -59,10 +59,10 @@
         }
     },
     {
-        "name": "Astro Cricket",
-        "channel_link": "https://new.crichd-player.top/astro-cricket-live-streaming-hd-44",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9Z8wD-od4VKM5XLjjxGVE0UddY2IDb7cbg&s",
-        "num": "https://jan.zplayer001.com:8034/hls/astrocric.m3u8?md6=7YKADQTDNgv1Je-3X2siOA&expires=1741085746",
+        "name": "Sports 18",
+        "channel_link": "https://crichd-player.top/sports18-live-streaming",
+        "logo": "https://yt3.googleusercontent.com/qsrCaTsaXGxE9YIpwXLu762pX0nnGwkwWUY-CgZdOdwNbMCdB4sbLkS25ysQYKT3BCTpGSPc7g=s160-c-k-c0x00ffffff-no-rj",
+        "num": "https://pv004.zplayer001.com:7054/hls/sports18in1.m3u8?md6=SPF7vGb6OLAOkgRpyfrt4w&expires=1741088060",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "Referer": "https://zplayer001.com/",
